@@ -18,3 +18,5 @@ AssetMantle is participating in Hacktoberfest 2022 with four major projects [Man
 
 ## Support
 
+Join our [Discord](https://discord.gg/NDA47GnHam)
+
