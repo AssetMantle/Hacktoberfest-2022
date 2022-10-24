@@ -14,7 +14,7 @@ AssetMantle is a multi-tenant NFT marketplace framework that enables creators an
 
 ## AssetMantle Participation :fire:
 
-AssetMantle is participating in Hacktoberfest 2022 with four major projects [MantleJS](https://github.com/AssetMantle/mantlejs), [Wallet](https://github.com/AssetMantle/wallet),[Module](https://github.com/AssetMantle/modules) this time. Learn [How to contribute](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+AssetMantle is participating in Hacktoberfest 2022 with four major projects [MantleJS](https://github.com/AssetMantle/mantlejs), [Wallet](https://github.com/AssetMantle/wallet),[Module](https://github.com/AssetMantle/modules) this time. Learn [How to contribute](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) , [AssetMantle’s Contributor Program](https://amcontributor.notion.site/AssetMantle-s-Contributor-Program-422df49c031f4661a4bc9f31197af8f4)
 
 ## Support :loudspeaker:
 
